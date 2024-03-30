@@ -38,8 +38,8 @@ python3 graphs.py
 
 ## Acknowledgements
 
-- [PysimpleGui:](https://docs.pysimplegui.com)
-- [Matplotlib:](https://matplotlib.org/)
+- [PysimpleGui](https://docs.pysimplegui.com)
+- [Matplotlib](https://matplotlib.org/)
 
 ## Future Work
 
