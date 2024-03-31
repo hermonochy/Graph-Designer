@@ -36,10 +36,9 @@ python3 graphs.py
 
 ![](screenshot1.png)
 
-## Acknowledgements
-
-- [PysimpleGui:](https://docs.pysimplegui.com)
-- [Matplotlib:](https://matplotlib.org/)
+## Dependencies
+- [PysimpleGui](https://docs.pysimplegui.com)
+- [Matplotlib](https://matplotlib.org/)
 
 ## Future Work
 
