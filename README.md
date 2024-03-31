@@ -38,6 +38,8 @@ python3 graphs.py
 
 ![](screenshot1.png)
 
+![](screenshot2.png)
+
 ## Dependencies
 - [PysimpleGui](https://docs.pysimplegui.com)
 - [Matplotlib](https://matplotlib.org/)
@@ -46,4 +48,6 @@ python3 graphs.py
 
 - more graph types
 - more user-friendly input field
+- generate line of best fit
+- highlight outliers
 
