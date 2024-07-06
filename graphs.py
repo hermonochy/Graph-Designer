@@ -1,4 +1,4 @@
-import PySimpleGUI as sg
+import modules.PySimpleGUI as sg
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import linregress
